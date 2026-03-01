@@ -16,7 +16,7 @@ Implementation of formation reshaping for multiple UAVs and target localization 
 
 ## Tech stack
 - C++ (Eigen)
-- Course simulation environment (CVUT MRS)
+- Course simulation environment
 
 ## Repository content
 This repo contains only my implementation files (course framework excluded):
